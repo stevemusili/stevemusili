@@ -1,16 +1,16 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Steve Musili]! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **[Web Development]** with experience in **[HTML, CSS and JavaScript]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: **[JavaScript, HTML, CSS, Git & GitHub, Web Development Fundamentals and Programming Logic and Algorithms.]**
+- 🔭 Working on: **[A sleek web application designed to simplify travel planning and vacation booking.]**
+- 🌍 Languages: **[JavaScript]**
+- 📫 How to reach me: **[musilisteve223@gmail.com]**
+- ⚡ Fun fact: **[I love Watching Anime]**
 
 ## My Skills 🧠
 
@@ -24,11 +24,11 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [focus-shot-photography](https://stevemusili.github.io/focus-shot-photography/)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![Project 1 Screenshot<img width="1342" height="596" alt="focus   shot photography " src="https://github.com/user-attachments/assets/8bf62f49-d8e7-40fd-93d3-e6b7e9d67070" />
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**[focus-shot-photography]** is a **[photography website showcasing about photography services, gallery and contact details through a simple design.]** built with **[HTML & CSS]**. This project demonstrates my ability to **[implement semantic web structure, responsive layouts, image galleries, navigation, contact forms, and consistent branding]**. You can check out the repository [here](https://github.com/stevemusili/focus-shot-photography.git).
 
 ### [Project 2 Title](project_2_link)
 
