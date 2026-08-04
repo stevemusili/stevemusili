@@ -1,18 +1,15 @@
 # Hi there, I'm Steve Musili! 👋
 
-![Banner Image](your_banner_image_url_here)
-
 ## About Me 🚀
 
-I'm a passionate **[Web Development]** with experience in **[HTML, CSS and JavaScript]**.
+I'm a passionate **Web Developer** with experience in **HTML, CSS and JavaScript**.
 
-- 🌱 Currently learning: **[JavaScript, HTML, CSS, Git & GitHub, Web Development Fundamentals and Programming Logic and Algorithms.]**
-- 🔭 Working on: **[A sleek web application designed to simplify travel planning and vacation booking.]**
-- 🌍 Languages: **[JavaScript]**
-- 📫 How to reach me: **[musilisteve223@gmail.com]**
-- ⚡ Fun fact: **[I love Watching Anime]**
+- 🌱 Currently learning: **JavaScript, HTML, CSS, Git & GitHub, Web Development Fundamentals and Programming Logic and Algorithms.**
+- 🔭 Working on: **A sleek web application designed to simplify travel planning and vacation booking.**
+- 📫 How to reach me: [musilisteve223@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- ⚡ Fun fact: **I love Watching Anime**
 
-## My Skills 🧠
+## Languages 🌍
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
