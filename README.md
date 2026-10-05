@@ -2,12 +2,12 @@
 
 ## About Me 🚀
 
-I'm a passionate **Web Developer** with experience in **HTML, CSS and JavaScript**.
+I'm a passionate **Web Developer** with experience in **HTML, CSS, and JavaScript**.
 
-- 🌱 Currently learning: **JavaScript, HTML, CSS, Git & GitHub, Web Development Fundamentals and Programming Logic and Algorithms.**
-- 🔭 Working on: **A sleek web application designed to simplify travel planning and vacation booking.**
+- 🌱 Currently learning: **JavaScript, HTML, CSS, Git & GitHub, Web Development Fundamentals, and Programming Logic and Algorithms.**
+- 🔭 Working on: **Currently in school**
 - 📫 How to reach me: [musilisteve223@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-- ⚡ Fun fact: **I love Watching Anime**
+- ⚡ Fun fact: **I love Football**
 
 ## Languages 🌍
 
@@ -17,8 +17,8 @@ I'm a passionate **Web Developer** with experience in **HTML, CSS and JavaScript
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[Personal Website / Blog]**(https://stevemusili.github.io/stevemusili-portfolio/)
+- **[LinkedIn]**(www.linkedin.com/in/steve-musili-154408245)
+
 
 
